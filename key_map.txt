@@ -1,0 +1,86 @@
+{
+    "blum": {
+        "key": "P440YXtPRtaQuWKkFeIFg1MrQ+2xHUGmOZl5lvMMmtQ=",
+        "nonce": "EGAmh1brxS/zwbFYcPLaXw=="
+    },
+    "kuroro": {
+        "key": "8vP0zWh+t/IsyYCllouxeEYB6qkCHTV9wY8hqYVd6l4=",
+        "nonce": "h3RIJcNYCJqSbD9bfWipsg=="
+    },
+    "cyber_finance": {
+        "key": "q6kci83h6wc+icHp2xKOEip/z71Q3L+okKkJGbfRu0s=",
+        "nonce": "6d68hJnGqb223iaDCC4xmA=="
+    },
+    "djdog": {
+        "key": "oXkpvNwCcPJTlRf9p5CD1M27fWhrg4WnyrdDsZ5ZvQE=",
+        "nonce": "iVOSjOGVbu1YcsEpOFcJwA=="
+    },
+    "timefarm": {
+        "key": "bCxC0b8Sway4mYQQMG94Vnl6H8UXpS6Y7Ujf8IcSBC8=",
+        "nonce": "g/frQw1PxshzXzIdYt8NQA=="
+    },
+    "matchquest": {
+        "key": "gFs4bDz38J9/401f8Q4BCT8PcqgwM+y17Zf/EiP1YVE=",
+        "nonce": "OF6Dbbdu0rHLcIvDqKz7IQ=="
+    },
+    "main": {
+        "key": "AepXjEzzLyOM5brF0gKuKHhgj9VCsGnQ8CG9mU8K9ys=",
+        "nonce": "Sk7bWmRM27WWSPfxwkLRFQ=="
+    },
+    "utils": {
+        "key": "dS6sHxIkEaaNMNyhEhRC+3lILdjPhsaFY0DxKjtR5BM=",
+        "nonce": "fTrf+5z0FcUdhPvk8zb1Sw=="
+    },
+    "bump": {
+        "key": "KHJdFT0VFuYIeMDyIutcoBUOZFk7W4MipQD3EotyOLo=",
+        "nonce": "s+mSFLnI3X1kMHNzWiuABQ=="
+    },
+    "bunny": {
+        "key": "NKFKfCJt/gFwGbMxOLSOr+kRAFs6Y5Z+guAJtA7vVGA=",
+        "nonce": "NrANuc+OKLKv+VLoyaREwQ=="
+    },
+    "cex": {
+        "key": "KZwa0gwNmE8HwxMYSL9slbhYxJN4UcKVykJdEdEIKJ8=",
+        "nonce": "Ttn4iWBr4Fsg2Ob7c501Hw=="
+    },
+    "dotcoin": {
+        "key": "8gkiyfLXNDpTZqYxQx62pWn6gsDojgH2D2q5nhiJtTc=",
+        "nonce": "AvRCiPV6od7ggZhu0TU+4A=="
+    },
+    "iceberg": {
+        "key": "Tg5pwFJDcRUGpQBCdGfIUuZRZbIQeXCo+CcdEGM9Hz8=",
+        "nonce": "fXLm6IHQelRNjA3BAXpiSg=="
+    },
+    "hamster": {
+        "key": "G8Vfy6t2mk6GLbhqLMnaW448r0R5HQWr7KIWQ59cl4E=",
+        "nonce": "Cnif8q7uF/SS7B51qmTYWQ=="
+    },
+    "memefi": {
+        "key": "VwhwJBF2Fl537Dz1oZ/FoaLYaQ8oejp1IwJxfUSeY1A=",
+        "nonce": "Usq5xDdJuSUJA3NpVhgGkg=="
+    },
+    "quackquack": {
+        "key": "XEJS+l9CLjVEhNXFHm3ME68Qn3v7EMWVy0pqNul+WhU=",
+        "nonce": "6WkwuFrYTB6Sa+SA5i7MTA=="
+    },
+    "tapswap": {
+        "key": "EjAJgYhljzqzpa+4l0wTL4UB4By4n04ZpLtIQ2a/VdE=",
+        "nonce": "1O4ZWKX2jcP/uf05mQ7kAw=="
+    },
+    "wormfare": {
+        "key": "qVJI7QT1VP7JysP3NNkvQve7T/F5q65FF93jeE9nkJ8=",
+        "nonce": "gRGDjsWqk97kKWqLUVFo4g=="
+    },
+    "yescoin": {
+        "key": "UUPq3d2YGoNYMwNHzXmlZr7nfjc1tArKlUeyQvHGB7Q=",
+        "nonce": "wLoq169fOeXjIA77t6rfHg=="
+    },
+    "major": {
+        "key": "Zh9uaKcAzRc593hIYALDj9pN0AAFf60uQZem2JPmW0w=",
+        "nonce": "Gz+Xp5/1BUHO5NOLge1/RQ=="
+    },
+    "xempire": {
+        "key": "WBMfkpTJn8M7GCQMk4EuQx52UBUxPaynYWahGC7IyV4=",
+        "nonce": "uUqJJnrF4UX8yoEkyRCeeQ=="
+    }
+}
