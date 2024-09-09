@@ -1,90 +1,90 @@
 {
     "blum": {
-        "key": "3fMaVrzZLZNcCCj4WdyPAXgF5FbeYzZrSP6ZSUy9eAQ=",
-        "nonce": "vfwkyykofI8Hgs66TTYWkw=="
+        "key": "Ft0anxnIPutwzZAO3DmEorH2uvKUkAwsSZLz3f77Cy0=",
+        "nonce": "DH1fyMJ2sxFeU9ytFNmZfQ=="
     },
     "kuroro": {
-        "key": "YXpNmdk/bEYFc1IiIQzx6MJjqLeN2C5VzmfffimJ5Iw=",
-        "nonce": "PzNKJMFP9exnq2ba2muqDA=="
+        "key": "Y1aEiNNMyGtAoZpB+XOPaLmk1tMyoyvmby3pbEPtnpo=",
+        "nonce": "4bHQIo8dIQe0Kub2WEg7Gg=="
     },
     "cyber_finance": {
-        "key": "TX9MiogKKQUoM1r2k46ouz8BpTw7roCd44bPp3+cHXM=",
-        "nonce": "lnKHBjwnXlUaejw/KHik+A=="
+        "key": "OLtVzYa9eFbljkZT8ZfQqijR57TB1sEYue3p7iSaoKo=",
+        "nonce": "ENSGWk6cJdF06cHsjr97JQ=="
     },
     "djdog": {
-        "key": "0PLSZugZvYhba7pSHkVKIAy0F9AZsD3xkvWr11Uwc1o=",
-        "nonce": "5+6J/Nln3MyN7epzpye7CQ=="
+        "key": "ewNBFOEvdJu5W9Gckj4z5AzIRXpWhKl+owwUJEb2LLs=",
+        "nonce": "2vhd/X8X6o2wBkIlsfuL8g=="
     },
     "timefarm": {
-        "key": "ISkyVIAyd6jEopL3fmmva00SqIGG5FkbKY6xhwLVyEg=",
-        "nonce": "I7JQ60rxHcrHaCdaXipg4A=="
+        "key": "kQg8xpsw2CoyNSRpDLbqklnpDIw41B3jKCQJvAOcQ9Q=",
+        "nonce": "zg/yMKXQ2sIggb9c0E1iXg=="
     },
     "matchquest": {
-        "key": "o7ZjUQp50MByWPK6ZtR44KvCHPX4J+gT1dudLdQgNSE=",
-        "nonce": "SzfLrCNuPyyO7arGZgvGlg=="
+        "key": "UHS4sQxy3djtIZy+BsG1Rwb6MwCKHpiWIlip/D3GJsI=",
+        "nonce": "lKsgjPbx+rTQR1BwnqGT/A=="
     },
     "main": {
-        "key": "6UdL0RuCQtfxMIDD9DuHeUqqKFCCGs1PUJ1S1Cnctio=",
-        "nonce": "v69vdRIu7HBPvxZcIgt5Xg=="
+        "key": "SlG+3jTT06x6LT4/WUrckLA5WlIAcLngRVJ8csq3z2g=",
+        "nonce": "uIRZFjjrKJ+yeGVLHazcRg=="
     },
     "utils": {
-        "key": "jEVdw6OdkLEa9i2begzcTX3zO7OQtrk7SZaJat8Frtk=",
-        "nonce": "SBIAf01PEPHcLIw8u6A38g=="
+        "key": "ZAezRK4zh/6ZSVLU5kRV+cBYaaehnqS4jXiLi9LR5lk=",
+        "nonce": "AJ1kMAiJthKvcy8rGe939g=="
     },
     "bump": {
-        "key": "U8C42P167IzocdvFxV038rgQyYGAsxCZQaMqtNRO9hs=",
-        "nonce": "GfG0kQ8PIV/niV9qg/iqeA=="
+        "key": "1d3u4O6KJFQbArYKmND7mG+vuAGKfXVeSEaIEa7vMfo=",
+        "nonce": "nCo2ZMSHpOsCQAAuJeKHjA=="
     },
     "bunny": {
-        "key": "AeUUA2e+z33s8wOrvgDZvkUudLY1jHE2q/C/zhA0jkI=",
-        "nonce": "DHFgqVBtri/6NtlJCMBlWg=="
+        "key": "YW56IkwdUZ9PgyEdeuo/vbO0YepkN43OaX/hRXKXm4Y=",
+        "nonce": "/Plfr3dR5qTFjrQM/bIJ4w=="
     },
     "cex": {
-        "key": "WqusaEA3g0Td+QtK0qEiZK+K9XbjgQ5VoYWWq5kI/zs=",
-        "nonce": "q53gaqjIIvOio+gsoc1duw=="
+        "key": "O0eiRQ33uYMpHxSoFG8U9deof3HQmok8qMyEfGFA0eQ=",
+        "nonce": "CNCKt56/mEv3YKTCjHJxuQ=="
     },
     "dotcoin": {
-        "key": "3zdObsG1bqWgOc1ZtWBd0EGSVbOZ0aJuyGzO9QB4ghc=",
-        "nonce": "AG7E0HXLnjf4ri/Llh0qRg=="
+        "key": "148AdJN1jXMF8ybvNq21N+nN0Skacr5+adOEADpgAz0=",
+        "nonce": "3VIPrxoAaJ/8Nxw7gcx6FQ=="
     },
     "iceberg": {
-        "key": "9zQ0VrZeAYHNQeDS9yNlD2PQNcEOjAtp3B7uVT3OIyw=",
-        "nonce": "C0VjwuVfL9DVai+SfhZaGA=="
+        "key": "agnoaX9el/5w5uC07nmcBdyBbSwkqjoe1M0fFHSoO4Y=",
+        "nonce": "F3beiWbt0zDidf3XagkKag=="
     },
     "hamster": {
-        "key": "7WbglJ7vzmT/of+yY6330X4RkHFWhBJ63JWJPzj/SGg=",
-        "nonce": "+LXG24tpAQVshW95Gp5B9g=="
+        "key": "KjNWblePv+MqhNw7onOecd/iVKQWMMBFupemuu2xf8U=",
+        "nonce": "8x8YlMoI/TYOLFQ8i8WRgQ=="
     },
     "memefi": {
-        "key": "xPsaxIWudZKVAgl9NUck6OuXdMEeFGiwGUswhfcQbLI=",
-        "nonce": "6p0YvThCiZfmw7naL1eoew=="
+        "key": "o9RzRueLRmicXjk4NlC8V8gupWkyN7X8wO6EvcSfNYw=",
+        "nonce": "Gxv/U6BLEkqlVe1hVMI3Tg=="
     },
     "quackquack": {
-        "key": "v/P+8FSblxHxwYqLOn+dOcsgejw5flxOn++I7ZaI3n4=",
-        "nonce": "tSFKJ8Gk1aPdqocdH8VV6g=="
+        "key": "i6AWBkE/S+uZs5dAAN3fcF1Z01mrsWyUdS27d61ybJY=",
+        "nonce": "kZkoeHVnNeijfDYcKRTfMA=="
     },
     "tapswap": {
-        "key": "ENSG49VmjXwMb/8vfeZOiOYib7s8mNRAJRHqd9NbSNk=",
-        "nonce": "+tDzgeCRX/zh3VPoc4oM5g=="
+        "key": "lCPxF/GYMLEx4OLAbiYVA5shfwiFYDLxn6afE5MuTcQ=",
+        "nonce": "wGIijdv3VzjKL0zNvz9RUA=="
     },
     "wormfare": {
-        "key": "Uwrpk2NvyfTqasEuZqay9e7DplwT4oW6uPHjemin268=",
-        "nonce": "gaSimvzy7Jq1sAL7KcfC3Q=="
+        "key": "rwV/gXFFPGxOZp+pfbsqsQ5y3dWy4Wzlfoto5Q6FbJ0=",
+        "nonce": "OWSNqV+1oE1QXdJRhCSGbQ=="
     },
     "yescoin": {
-        "key": "rpZWComN4R3OQR6n5XV71zFteZemfpCOb37TVFXOCtg=",
-        "nonce": "YFl/Fbo82ZjRnbczHA/1fg=="
+        "key": "QCwaCzZWZxhDdu+RaWauS0MJe3VXAkvAUZL0lv3C6fQ=",
+        "nonce": "3Sl/cLbGycHEGWgRL/knbA=="
     },
     "major": {
-        "key": "dBYRb800KB10fUCfxW++OfEakS3XYjhvGm6Yu7o4MHE=",
-        "nonce": "EWWIphuXTTi1q3+qWIhpmA=="
+        "key": "zyUuioT3s1HKSnaejqBIj8XaYRfFdXkjDGQ2310gwjw=",
+        "nonce": "GR2joFm2QN4Ckeco4P0+zg=="
     },
     "x_empire": {
-        "key": "pedyoMEBrRqf6F0j78x4IGalpCkvw5zBX70lkVpt1Y0=",
-        "nonce": "lrVfIO7316M3x5bK5GyhBg=="
+        "key": "6vP0FpNtpU+x6HyfoG7gcY3699L06sAoBq10k7CDixk=",
+        "nonce": "+8OEoZHKiY+DzxuFafIxOQ=="
     },
     "lumoz": {
-        "key": "FnTB28Iq2yqHkzdtHgJFSDH2WSqY0c2jtDCtW71dqnA=",
-        "nonce": "+xU4rY0MVr1TRYpshJP2HQ=="
+        "key": "+eqHd8M/XFi6ybbXJ8wtiUX6v2er5ATxDYVn4UbADlo=",
+        "nonce": "jheC/aehGd+HEXajSJTK9A=="
     }
 }
